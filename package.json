@@ -21,7 +21,7 @@
 		"@types/bcrypt": "^5.0.0",
 		"@types/bcryptjs": "^2.4.2",
 		"@types/crypto-js": "^4.1.1",
-		"@types/gtag.js": "^0.0.12",
+		"@types/gtag.js": "^0.0.20",
 		"@types/jsonwebtoken": "^8.5.9",
 		"@types/nodemailer": "^6.4.6",
 		"@types/string-similarity": "^4.0.0",
